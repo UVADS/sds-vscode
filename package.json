@@ -9,12 +9,14 @@
       "type": "git",
       "url": "https://github.com/uvads/sds-vscode"
     },
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Data Science",
+    "Data Engineering"
   ],
   "extensionPack": [ 
     "github.codespaces", 
