@@ -1,12 +1,15 @@
-# sds-vscode README
+# VSCode Extension Pack for SDS
 
-A VSCode extension pack to support students in the UVA School of Data Science.
+This extension pack supports students in the University of
+Virginia School of Data Science.
 
 The following extensions are installed in this pack:
 
+- Docker
 - GitHub Codespaces
 - GitHub Copilot
 - Python
+- Python Debugger
 - Rainbow CSV
 - Remote Development
 - Remote Containers
