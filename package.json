@@ -1,7 +1,7 @@
 {
-  "name": "uva-sds-extension-pack",
+  "name": "sds-vscode",
   "displayName": "UVA Data Science Extension Pack",
-  "description": "A collection of VSCode extensions for students in SDS.",
+  "description": "A collection of VSCode extensions for students in the UVA School of Data Science.",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.75.0"
@@ -9,16 +9,19 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [
-    "ms-python.python",
-    "redhat.vscode-yaml",
-    "github.codespace",
-    "github.copilot",
-    "ms-vscode-remote.remote-ssh",
-    "ms-vscode.remote-server",
-    "ms-vscode-remote.remote-containers",
-    "ms-vscode-remote.vscode-remote-extensionpack",
-    "ms-vscode-remote.remote-wsl"
+  "extensionPack": [ 
+    "github.codespaces", 
+    "github.copilot", 
+    "github.copilot-chat", 
+    "mechatroner.rainbow-csv", 
+    "ms-python.python", 
+    "ms-vscode-remote.remote-containers", 
+    "ms-vscode-remote.remote-ssh", 
+    "ms-vscode-remote.remote-wsl", 
+    "ms-vscode-remote.vscode-remote-extensionpack", 
+    "ms-vscode.remote-explorer", 
+    "ms-vscode.remote-server", 
+    "ms-vsliveshare.vsliveshare", 
+    "redhat.vscode-yaml"
   ]
 }
-

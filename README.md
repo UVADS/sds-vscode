@@ -1,2 +1,3 @@
-# sds-vscode
-A VSCode extension pack for the UVA School of Data Science
+# sds-vscode README
+
+A VSCode extension pack to support students in the UVA School of Data Science.
