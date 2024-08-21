@@ -2,6 +2,8 @@
   "name": "sds-vscode",
   "displayName": "UVA Data Science Extension Pack",
   "description": "A collection of VSCode extensions for students in the UVA School of Data Science.",
+  "publisher": "uva-school-of-data-science",
+  "repository": "https://github.com/uvads/sds-vscode",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.75.0"
