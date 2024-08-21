@@ -5,7 +5,11 @@
   "publisher": "uva-school-of-data-science",
   "repository": "https://github.com/uvads/sds-vscode",
   "icon": "images/sdslogo.png",
-  "version": "0.1.1",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/uvads/sds-vscode"
+    },
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -17,6 +21,7 @@
     "github.copilot", 
     "mechatroner.rainbow-csv", 
     "ms-python.python", 
+    "ms-azuretools.vscode-docker",
     "ms-vscode-remote.remote-containers", 
     "ms-vscode-remote.remote-ssh", 
     "ms-vscode-remote.remote-wsl", 
