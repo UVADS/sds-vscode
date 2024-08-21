@@ -1,6 +1,6 @@
 {
   "name": "sds-vscode",
-  "displayName": "UVA Data Science Extension Pack",
+  "displayName": "UVA Data Science - Core Extension Pack",
   "description": "A collection of VSCode extensions for students in the UVA School of Data Science.",
   "publisher": "uva-school-of-data-science",
   "repository": "https://github.com/uvads/sds-vscode",
@@ -21,6 +21,7 @@
   "extensionPack": [ 
     "github.codespaces", 
     "github.copilot", 
+    "github.vscode-github-actions",
     "mechatroner.rainbow-csv", 
     "ms-python.python", 
     "ms-python.debugpy",
