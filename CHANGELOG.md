@@ -4,6 +4,6 @@ All notable changes to the "sds-vscode" extension pack will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## Versions
+## Added
 
-- Initial release
+- 0.1.0 Initial release - base set of 12 extensions.
