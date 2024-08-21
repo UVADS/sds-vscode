@@ -12,7 +12,6 @@
   "extensionPack": [ 
     "github.codespaces", 
     "github.copilot", 
-    "github.copilot-chat", 
     "mechatroner.rainbow-csv", 
     "ms-python.python", 
     "ms-vscode-remote.remote-containers", 
