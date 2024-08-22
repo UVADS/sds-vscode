@@ -10,3 +10,4 @@ All notable changes to the "sds-vscode" extension pack will be documented in thi
 - 0.1.3 Adding Python Debugger
 - 0.1.4 Adding R and Quarto
 - 0.1.5 Adding multiple Python, DB, and misc. extensions
+- 0.1.6 Adding Markdown All In One

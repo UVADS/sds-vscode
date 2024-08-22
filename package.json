@@ -9,7 +9,7 @@
       "type": "git",
       "url": "https://github.com/uvads/sds-vscode"
     },
-  "version": "0.1.5",
+  "version": "0.1.6",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -44,6 +44,7 @@
     "redhat.vscode-yaml",
     "REditorSupport.r",
     "streetsidesoftware.code-spell-checker",
-    "VisualStudioExptTeam.vscodeintellicode"
+    "VisualStudioExptTeam.vscodeintellicode",
+    "yzhang.markdown-all-in-one"
   ]
 }

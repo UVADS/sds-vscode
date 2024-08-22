@@ -15,6 +15,7 @@ The following extensions are installed in this pack:
 - Jupyter
 - Jupyter Renderers
 - Magic Python
+- Markdown All In One
 - MySQL
 - Pylance
 - Python
