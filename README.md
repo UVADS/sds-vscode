@@ -16,6 +16,7 @@ The following extensions are installed in this pack:
 - Jupyter Renderers
 - Magic Python
 - Markdown All In One
+- MongoDB
 - MySQL
 - Pylance
 - Python
@@ -30,6 +31,7 @@ The following extensions are installed in this pack:
 - Remote WSL
 - Remote Explorer
 - Remote Server
+- SQL Tools
 - VS Live Share
 - YAML
 
