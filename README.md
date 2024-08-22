@@ -26,4 +26,4 @@ The following extensions are installed in this pack:
 ## Installation
 
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=uva-school-of-data-science.sds-vscode)
-- Within the VS Code extension pane search for "UVA Data Science")
+- Within the VS Code extension pane search for "UVA Data Science".
