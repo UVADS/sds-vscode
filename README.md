@@ -10,6 +10,8 @@ The following extensions are installed in this pack:
 - GitHub Copilot
 - Python
 - Python Debugger
+- Quarto
+- R
 - Rainbow CSV
 - Remote Development
 - Remote Containers
