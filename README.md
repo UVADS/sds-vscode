@@ -6,11 +6,20 @@ This VS Code extension pack supports students in the University of Virginia Scho
 
 The following extensions are installed in this pack:
 
+- AutoDocstring
+- Code Spell Checker
 - Docker
 - GitHub Codespaces
 - GitHub Copilot
+- IntelliCode
+- Jupyter
+- Jupyter Renderers
+- Magic Python
+- MySQL
+- Pylance
 - Python
 - Python Debugger
+- Python Environment Manager
 - Quarto
 - R
 - Rainbow CSV

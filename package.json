@@ -9,9 +9,9 @@
       "type": "git",
       "url": "https://github.com/uvads/sds-vscode"
     },
-  "version": "0.1.4",
+  "version": "0.1.5",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Extension Packs",
@@ -19,13 +19,19 @@
     "Education"
   ],
   "extensionPack": [ 
+    "donjayamanne.python-environment-manager",
+    "formulahendry.vscode-mysql",
     "github.codespaces", 
     "github.copilot", 
     "github.vscode-github-actions",
+    "magicstack.MagicPython",
     "mechatroner.rainbow-csv", 
-    "ms-python.python", 
     "ms-python.debugpy",
+    "ms-python.python", 
+    "ms-python.vscode-pylance",
     "ms-azuretools.vscode-docker",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-renderers",
     "ms-vscode-remote.remote-containers", 
     "ms-vscode-remote.remote-ssh", 
     "ms-vscode-remote.remote-wsl", 
@@ -33,8 +39,11 @@
     "ms-vscode.remote-explorer", 
     "ms-vscode.remote-server", 
     "ms-vsliveshare.vsliveshare", 
+    "njpwerner.autodocstring",
     "quarto.quarto",
     "redhat.vscode-yaml",
-    "REditorSupport.r"
+    "REditorSupport.r",
+    "streetsidesoftware.code-spell-checker",
+    "VisualStudioExptTeam.vscodeintellicode"
   ]
 }
