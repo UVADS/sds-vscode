@@ -1,7 +1,8 @@
-# VSCode Extension Pack for SDS
+# UVA Data Science Core Extension Pack
 
-This extension pack supports students in the University of
-Virginia School of Data Science.
+This VS Code extension pack supports students in the University of Virginia School of Data Science.
+
+## Extensions Included
 
 The following extensions are installed in this pack:
 
@@ -21,3 +22,8 @@ The following extensions are installed in this pack:
 - Remote Server
 - VS Live Share
 - YAML
+
+## Installation
+
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=uva-school-of-data-science.sds-vscode)
+- Within the VS Code extension pane search for "UVA Data Science")
